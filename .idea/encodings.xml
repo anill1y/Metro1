@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/DijkstraAlgorithm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/ErrorBox.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Graph.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/MetroApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/MetroController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/MetroGraph.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/StationSelector.java" charset="UTF-8" />
+  </component>
+</project>

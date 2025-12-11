@@ -1,0 +1,34 @@
+.highlighted {
+    -fx-background-radius: 50;
+    -fx-opacity: 0.35;
+}
+
+.red-button {
+    -fx-background-color: #cc3333;
+    -fx-background-radius: 50;
+}
+
+.blue-button {
+    -fx-background-color: #3399cc;
+    -fx-background-radius: 50;
+}
+
+.purple-button {
+    -fx-background-color: #663366;
+    -fx-background-radius: 50;
+}
+
+.ghost-image {
+    -fx-opacity: 0.35;
+}
+
+
+.green-button {
+    -fx-background-color: #009966;
+    -fx-background-radius: 50;
+}
+
+.orange-button {
+    -fx-background-color: #cc6633;
+    -fx-background-radius: 50;
+}
