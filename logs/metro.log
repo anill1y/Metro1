@@ -1,0 +1,11 @@
+2025-12-11 15:23:51 INFO  MetroController - The app is ready to use
+2025-12-11 15:25:14 DEBUG MetroController - Shortest path is being searching for
+2025-12-11 15:25:14 INFO  MetroController - Path: Vasileostrovskaya -> Gostiny dvor -> Mayakovskaya -> Ploshchad Vosstaniya -> Chernyshevskaya -> Ploshchad Lenina -> Vyborgskaya -> Lesnaya -> Ploshchad Muzhestva -> Politekhnicheskaya -> Akademicheskaya 27 min
+2025-12-11 15:25:20 INFO  MetroController - The app is ready to use
+2025-12-11 15:26:33 DEBUG MetroController - Shortest path is being searching for
+2025-12-11 15:26:33 INFO  MetroController - Path: Akademicheskaya -> Politekhnicheskaya -> Ploshchad Muzhestva -> Lesnaya -> Vyborgskaya -> Ploshchad Lenina -> Chernyshevskaya -> Ploshchad Vosstaniya -> Mayakovskaya -> Ploshchad Aleksandra Nevskogo 1 -> Ploshchad Aleksandra Nevskogo 2 -> Novocherkasskaya -> Ladozhskaya -> Prospekt Bolshevikov -> Ulitsa Dybenko 36 min
+2025-12-11 15:42:54 DEBUG MetroController - Shortest path is being searching for
+2025-12-11 15:42:54 ERROR MetroController - Error: choose station
+2025-12-11 15:43:03 INFO  MetroController - The app is ready to use
+2025-12-11 15:43:05 DEBUG MetroController - Shortest path is being searching for
+2025-12-11 15:43:05 ERROR MetroController - Error: choose station

@@ -1,0 +1,18 @@
+-locale 'ru_RU'
+-charset 'UTF-8'
+-classpath 'C:\\Users\\ksush\\IdeaProjects\\Metro1\\build\\classes\\java\\main;C:\\Users\\ksush\\IdeaProjects\\Metro1\\build\\resources\\main;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-fxml\\17.0.17\\fabbddeda7309c0c65898c3f5dc47160abd8f1d5\\javafx-fxml-17.0.17-win.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\17.0.17\\6be32b0cf42a2398d2e50feb4635ec8dffd35861\\javafx-controls-17.0.17-win.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\17.0.17\\ab26776aad90d3cd8c01506273dc7b843a2dcaa6\\javafx-controls-17.0.17.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\17.0.17\\c0aa211343fafb604fcf45427e31a84898e36f6f\\javafx-graphics-17.0.17-win.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\17.0.17\\c07922cab0d10e9039435569fd12f5a9b4a498e8\\javafx-graphics-17.0.17.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\17.0.17\\f8b60d635d5bf6c38318c90a204cbd9916244bd4\\javafx-base-17.0.17-win.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\17.0.17\\9f9794245c866b7b45f35173aa4b80997a322890\\javafx-base-17.0.17.jar;C:\\Users\\ksush\\.gradle\\caches\\modules-2\\files-2.1\\log4j\\log4j\\1.2.17\\5af35056b4d257e4b64b9e8069c0746e8b08629f\\log4j-1.2.17.jar'
+-d 'C:\\Users\\ksush\\IdeaProjects\\Metro1\\build\\docs\\javadoc'
+-docencoding 'UTF-8'
+-doctitle 'Metro1 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'Metro1 1.0-SNAPSHOT API'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\DijkstraAlgorithm.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\ErrorBox.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\Graph.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\Main.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\MetroApp.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\MetroController.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\MetroGraph.java'
+'C:\\Users\\ksush\\IdeaProjects\\Metro1\\src\\main\\java\\org\\example\\StationSelector.java'
